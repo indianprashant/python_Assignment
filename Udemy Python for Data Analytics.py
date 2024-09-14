@@ -20,18 +20,11 @@ print("name:",name)
 print("height:",height)
 
 
-# In[3]:
-
-
 ## Case sensitivity
 name="prashant"
 Name="kumar"
 
 name==Name
-
-
-# In[5]:
-
 
 age=20
 print(type(age))
@@ -118,13 +111,6 @@ print("Sum:",sum)
 print("Difference:",difference)
 print("Multi:",multi)
 print("Division:",division)
-
-
-# In[ ]:
-
-
-
-
 
 # In[19]:
 
